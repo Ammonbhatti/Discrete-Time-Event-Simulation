@@ -17,7 +17,7 @@ Simply execute the following command to run files in the terminal.
 
 	python simulation.py  
 	python experiment_1.py  
-	pyhton experiment_3.py  
+	pyhton experiment_2.py  
 
 Input:    
 	No command line input is required as the program is written  
